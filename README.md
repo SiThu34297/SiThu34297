@@ -18,3 +18,8 @@ Here are some ideas to get you started:
   <br/>
    <a href="https://github.com/SiThu34297"><img alt="Sithu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SiThu34297&theme=react-dark" /></a>
   <br/>
+  ## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SiThu34297&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+<br>
