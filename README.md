@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/SiThu34297"><img alt="Sithu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SiThu34297&theme=react-dark" /></a>
