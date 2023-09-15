@@ -20,8 +20,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SiThu34297/SiThu34297/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
